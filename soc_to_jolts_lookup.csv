@@ -1,0 +1,23 @@
+SOC_Major_Group,SOC Major Group Name,JOLTS Industry (mapped),Mapping Confidence,Mapping Notes
+11,Management,Total private,low,Management — spans all industries
+13,Business and Financial Operations,Professional and business services,low,Business/Financial Ops — cross-industry
+15,Computer and Mathematical,Information,medium,Computer & math — heavily Info & Prof services
+17,Architecture and Engineering,Professional and business services,medium,Architecture/Engineering — prof services & mfg
+19,"Life, Physical, and Social Science",Professional and business services,medium,Life/Physical/Social Science — research & consulting
+21,Community and Social Service,Health care and social assistance,high,Community/Social Service — primarily HC & Social Asst
+23,Legal,Professional and business services,high,Legal occupations — primarily legal services
+25,Educational Instruction and Library,Private education and health services,high,Education occupations
+27,"Arts, Design, Entertainment, Sports, Media","Arts, entertainment, and recreation",medium,Arts/Design/Entertainment/Media — mixed with Info
+29,Healthcare Practitioners and Technical,Health care and social assistance,high,Healthcare Practitioners
+31,Healthcare Support,Health care and social assistance,high,Healthcare Support
+33,Protective Service,Government,medium,Protective Service — mostly govt
+35,Food Preparation and Serving Related,Accommodation and food services,high,Food Prep & Serving
+37,Building and Grounds Cleaning/Maintenance,Other services,low,Building & Grounds Cleaning — many industries
+39,Personal Care and Service,Other services,medium,Personal Care & Service
+41,Sales and Related,Retail trade,medium,"Sales — heavily retail, also wholesale & financial"
+43,Office and Administrative Support,Total private,low,Office & Administrative Support — cross-industry
+45,"Farming, Fishing, and Forestry",Mining and logging,medium,Farming/Fishing/Forestry — closest JOLTS proxy
+47,Construction and Extraction,Construction,high,Construction & Extraction
+49,"Installation, Maintenance, and Repair",Total private,low,Installation/Maintenance/Repair — cross-industry
+51,Production,Manufacturing,high,Production occupations
+53,Transportation and Material Moving,"Transportation, warehousing, and utilities",high,Transportation & Material Moving
